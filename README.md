@@ -24,8 +24,8 @@ This repository contains Python implementations of fundamental data structures a
 - **Merge Sort**: A divide-and-conquer algorithm that recursively divides the array into two halves, sorts them, and then merges them.
 - **Quick Sort**: Another divide-and-conquer algorithm that partitions the array and recursively sorts each partition.
 ## Dynamic Programming
-**Fibonacci**: Solving the Fibonacci sequence efficiently using dynamic programming, where overlapping subproblems are solved only once and results are cached for future use.
-**Matrix Multiplication**: Employing dynamic programming to optimize the multiplication of matrices through the efficient computation of subproblems.
+- **Fibonacci**: Solving the Fibonacci sequence efficiently using dynamic programming, where overlapping subproblems are solved only once and results are cached for future use.
+- **Matrix Multiplication**: Employing dynamic programming to optimize the multiplication of matrices through the efficient computation of subproblems.
 
 ## **Greedy Algorithms**
 - **Fractional Knapsack**: A strategy for selecting items in a knapsack to maximize the total value, taking fractions of items if needed.
