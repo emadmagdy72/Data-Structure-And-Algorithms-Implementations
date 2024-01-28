@@ -9,13 +9,13 @@ This repository contains Python implementations of fundamental data structures a
 
 **Queue**: A First-In-First-Out (FIFO) data structure that stores elements in a linear order. Perfect for scenarios where order needs to be preserved, like task scheduling.
 
-**Graph Traversal**:
+## **Graph Traversal**:
 
 **Depth-First Search (DFS)**: A graph traversal algorithm that explores as far as possible along each branch before backtracking. It's often used for topological sorting and connected component analysis.
 
 **Breadth-First Search (BFS)**: This algorithm explores a graph level by level, making it ideal for shortest path calculations and network analysis.
 
-**Tree Traversal Techniques**:
+ ## **Tree Traversal Techniques**:
 
 **Inorder**: Traverse the left subtree, visit the root, then traverse the right subtree.
 **Postorder**: Traverse the left subtree, traverse the right subtree, then visit the root.
@@ -25,7 +25,7 @@ This repository contains Python implementations of fundamental data structures a
 
 **Karatsuba for Multiplication**: A fast multiplication algorithm for large numbers, utilizing a divide-and-conquer approach.
 
-**Sorting Algorithms**:
+## **Sorting Algorithms**:
 
 **Merge Sort**: A divide-and-conquer algorithm that recursively divides the array into two halves, sorts them, and then merges them.
 **Quick Sort**: Another divide-and-conquer algorithm that partitions the array and recursively sorts each partition.
@@ -34,7 +34,7 @@ This repository contains Python implementations of fundamental data structures a
 
 **Matrix Multiplication**: Employing dynamic programming to optimize the multiplication of matrices through the efficient computation of subproblems.
 
-**Greedy Algorithms**
+## **Greedy Algorithms**
 **Fractional Knapsack**: A strategy for selecting items in a knapsack to maximize the total value, taking fractions of items if needed.
 
 **Job Sequence**: A greedy algorithm for scheduling jobs based on their deadlines and profits, aiming to maximize the overall profit.
