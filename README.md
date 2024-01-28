@@ -2,7 +2,7 @@
 This repository contains Python implementations of fundamental data structures and algorithms.
 
 ## Implemented Topics
-### Data Structures
+## Data Structures
 **Doubly Linked List**: A versatile linked list implementation where each node contains a data element and two pointers, one to the next node and one to the previous node. This structure allows for efficient traversal in both directions.
 
 **Stack**: A Last-In-First-Out (LIFO) data structure that follows the principle of pushing elements onto the stack and popping them off. Essential for applications such as parsing expressions and managing function calls.
