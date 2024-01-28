@@ -21,14 +21,10 @@ This repository contains Python implementations of fundamental data structures a
 **Postorder**: Traverse the left subtree, traverse the right subtree, then visit the root.
 **Preorder**: Visit the root, traverse the left subtree, then traverse the right subtree.
 **Divide and Conquer**
-**Min_Max**: An optimization strategy that breaks down a problem into smaller subproblems, solves them independently, and combines the solutions to the original problem. Applied here to efficiently find both the minimum and maximum elements in an array.
-
-**Karatsuba for Multiplication**: A fast multiplication algorithm for large numbers, utilizing a divide-and-conquer approach.
-
-## **Sorting Algorithms**:
-
-**Merge Sort**: A divide-and-conquer algorithm that recursively divides the array into two halves, sorts them, and then merges them.
-**Quick Sort**: Another divide-and-conquer algorithm that partitions the array and recursively sorts each partition.
+- **Min_Max**: An optimization strategy that breaks down a problem into smaller subproblems, solves them independently, and combines the solutions to the original problem. Applied here to efficiently find both the minimum and maximum elements in an array.
+- **Karatsuba for Multiplication**: A fast multiplication algorithm for large numbers, utilizing a divide-and-conquer approach.
+- **Merge Sort**: A divide-and-conquer algorithm that recursively divides the array into two halves, sorts them, and then merges them.
+- **Quick Sort**: Another divide-and-conquer algorithm that partitions the array and recursively sorts each partition.
 **Dynamic Programming**
 **Fibonacci**: Solving the Fibonacci sequence efficiently using dynamic programming, where overlapping subproblems are solved only once and results are cached for future use.
 
